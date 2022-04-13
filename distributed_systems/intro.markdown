@@ -17,7 +17,7 @@ Steen-Tanenbaum:
 
 >a collection of autonomous computing elements that appears to its users as a single coherent system.
 
-La seconde définition insite bien sur le côté autonome de chaque noeud du réseau. Par exemple, un noeud donné
+La seconde définition insiste bien sur le côté autonome de chaque noeud du réseau. Par exemple, un noeud donné
 pourrait partir ou arriver dans le système à n'importe quel moment.
 
 Ces définitions étant très génériques, beaucoup de choses rentrent dans le cadre des systèmes distribués:
