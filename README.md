@@ -4,7 +4,7 @@ Tous les documents des sections "added" ne le sont pas forcément dans leur vers
 
 ## 2022-04-21
 
-## Added 
+### Added 
 
 - MapReduce ➡️ [/distributed_systems/MapReduce.markdown](/distributed_systems/MapReduce.markdown)
 
