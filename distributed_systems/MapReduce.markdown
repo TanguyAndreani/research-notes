@@ -2,6 +2,14 @@
 
 URL ➡️ https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf
 
+## État du fichier
+
+Notes prises sur l'intro et petite vue du code C++ à la fin. Là tout de suite il manque à peu près tout
+ce qui est important: comment les données sont partitionnées, c'est quoi GFS, les exemples de ce qu'on
+peut faire avec et des idées d'implémentation.
+
+Il faut croiser avec le reste de [6.824 2022 Lecture 1](https://pdos.csail.mit.edu/6.824/notes/l01.txt).
+
 ## Abstract
 
 **Concept, objectif**
