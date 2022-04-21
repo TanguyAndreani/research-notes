@@ -2,6 +2,12 @@
 
 Tous les documents des sections "added" ne le sont pas forcément dans leur version finale.
 
+## 2022-04-18
+
+### Added
+
+- Quelques ressources pour la théorie des ensembles ➡️ [/maths/set_theory.markdown](/maths/set_theory.markdown)
+
 ## 2022-04-13
 
 ### Added
