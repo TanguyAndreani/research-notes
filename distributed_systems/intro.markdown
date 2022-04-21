@@ -1,3 +1,5 @@
+# Systèmes distribués
+
 Je vais me baser sur quatre ressources tout au long de mes recherches:
 
 - Distributed Systems, 3rd Edition, par Maarten van Steen et Andrew S. Tanenbaum 
@@ -6,6 +8,14 @@ Je vais me baser sur quatre ressources tout au long de mes recherches:
 - https://dsrg.pdos.csail.mit.edu/papers/
 
 (Les deux livres sont trouvables facilement en PDF sur libgen.)
+
+## État du document
+
+J'ai vu dans les très grandes lignes les objectifs des systèmes distribués en terme de résolution
+de problèmes liés à la technique, maintenant ça serait bien d'avoir une liste catégorisée de cas
+pratiques avec quelques détails (p2p, blockchain, analyse de données en clusters, etc.)
+
+Pendant que je vois MapReduce il faudrait avancer sur les autres sujets.
 
 ## L'idée de systèmes distribués
 
