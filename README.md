@@ -2,6 +2,12 @@
 
 Tous les documents des sections "added" ne le sont pas forcément dans leur version finale.
 
+## 2022-04-21
+
+## Added 
+
+- MapReduce ➡️ [/distributed_systems/MapReduce.markdown](/distributed_systems/MapReduce.markdown)
+
 ## 2022-04-18
 
 ### Added
