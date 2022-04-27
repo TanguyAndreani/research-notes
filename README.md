@@ -2,6 +2,13 @@
 
 Tous les documents des sections "added" ne le sont pas forcément dans leur version finale.
 
+
+## 2022-04-27
+
+### Added 
+
+- Conda, Anaconda, Miniconda... ➡️ [/administration/conda.markdown](/administration/conda.markdown)
+
 ## 2022-04-21
 
 ### Added 
