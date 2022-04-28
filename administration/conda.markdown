@@ -1,6 +1,6 @@
 # Conda, Anaconda, Miniconda...
 
-J'utilise conda avant tout gérer des notebooks Jupyter.
+J'utilise conda avant tout pour gérer des notebooks Jupyter.
 
 ## FAQ
 
