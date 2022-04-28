@@ -2,6 +2,16 @@
 
 Tous les documents des sections "added" ne le sont pas forcément dans leur version finale.
 
+## 2022-04-27
+
+### Added 
+
+➡️ [/administration/conda.markdown](/administration/conda.markdown)
+
+- Différences entre conda, miniconda et anaconda.
+- Installation et désinstallation.
+- conda-forge.
+- Les environnements et comment conda gère le PATH (brouillon)
 
 ## 2022-04-27
 
